@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Riadh Aouameur
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning English
+- 💞️ I’m looking to collaborate on Flutter projects
+- 📫 How to reach me riadhaoumeur01@gmail.com
